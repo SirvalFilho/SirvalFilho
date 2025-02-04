@@ -21,5 +21,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-SirvalFilho-blue?style=flat-square&logo=TheConversation&logoColor=white&link=https://www.linkedin.com/in/sirval-rodrigues)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-sirval.rodrigues@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sirval.rodrigues@gmail.com)](mailto:SEU-EMAIL)
+[![Linkedin](https://img.shields.io/badge/-SirvalFilho-blue?style=flat-square&logo=TheConversation&logoColor=white&link=https://www.linkedin.com/in/sirval-rodrigues)](https://www.linkedin.com/in/sirval-rodrigues)
+[![Gmail Badge](https://img.shields.io/badge/-sirval.rodrigues@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sirval.rodrigues@gmail.com)](mailto:sirval.rodrigues@gmail.com)
